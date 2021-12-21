@@ -1,6 +1,6 @@
 # Twitch clone streaming application
 
-This is a streaming actual inspired by Twitch built in React.
+This is a streaming application inspired by Twitch built in React.
 
 This application showcases mastery in:
 
