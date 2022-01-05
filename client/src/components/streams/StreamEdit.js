@@ -16,7 +16,7 @@ export default function StreamEdit() {
     return () => {
       return;
     };
-  });
+  }, [id, dispatch]);
 
   const onSubmit = (formValues) => {
     dispatch(editStream(id, formValues));
