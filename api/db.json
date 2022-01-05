@@ -11,8 +11,8 @@
       "id": 2
     },
     {
-      "title": "I created this stream",
-      "description": "This was made by me",
+      "title": "This is a streaaammmm",
+      "description": "This was made by me, a functional component boi",
       "userId": "116940819902152977045",
       "id": 3
     },
@@ -45,6 +45,12 @@
       "description": "refactoring",
       "userId": "116940819902152977045",
       "id": 8
+    },
+    {
+      "title": "This is a streamyboi",
+      "description": "dope stream",
+      "userId": "116940819902152977045",
+      "id": 9
     }
   ]
 }
