@@ -8,6 +8,8 @@ Functional Components with Hooks.
 The application uses an RTMP server allowing for streaming video using http:flv.
 Streams and stream data are stored on a local JSON server using the json-server library.
 
+The application uses the Semantic UI styling via a CDN to provide basic styling to components.
+
 To try out the application yourself, use `npm start` at the api, client, and rtmpserver directories
 to start the respective local servers.
 
