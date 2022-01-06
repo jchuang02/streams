@@ -9,48 +9,6 @@
       "title": "Other stream",
       "description": "Here's some stream",
       "id": 2
-    },
-    {
-      "title": "This is a streaaammmm",
-      "description": "This was made by me, a functional component boi",
-      "userId": "116940819902152977045",
-      "id": 3
-    },
-    {
-      "title": "Programmatic Navigation",
-      "description": "This page should be navigated away when I hit submit",
-      "userId": "116940819902152977045",
-      "id": 4
-    },
-    {
-      "title": "asd",
-      "description": "asd",
-      "userId": "116940819902152977045",
-      "id": 5
-    },
-    {
-      "title": "another stream",
-      "description": "navigate?",
-      "userId": "116940819902152977045",
-      "id": 6
-    },
-    {
-      "title": "yo",
-      "description": "gfhg",
-      "userId": "116940819902152977045",
-      "id": 7
-    },
-    {
-      "title": "Me streaming component reuse",
-      "description": "refactoring",
-      "userId": "116940819902152977045",
-      "id": 8
-    },
-    {
-      "title": "This is a streamyboi",
-      "description": "dope stream",
-      "userId": "116940819902152977045",
-      "id": 9
     }
   ]
 }

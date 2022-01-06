@@ -8,7 +8,7 @@ import StreamList from "./streams/StreamList";
 import StreamShow from "./streams/StreamShow";
 import Header from "./Header";
 
-const App = () => {
+export default function App() {
   return (
     <div className="ui container">
       <BrowserRouter>
@@ -25,4 +25,3 @@ const App = () => {
   );
 };
 
-export default App;

@@ -1,10 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import { useNavigate } from "react-router-dom";
 
-const Modal = (props) => {
+export default function Modal(props) {
+  const navigate = useNavigate();
+
   return ReactDOM.createPortal(
     <div
-      onClick={() => props.onDismiss()}
+      onClick={() => navigate("/")}
       className="ui dimmer modals visible active"
     >
       <div
@@ -18,6 +21,4 @@ const Modal = (props) => {
     </div>,
     document.querySelector("#modal")
   );
-};
-
-export default Modal;
+}
